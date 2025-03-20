@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MyTestFramework'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'A custom iOS framework for demonstration purposes.'
   s.description      = <<-DESC
   This is a custom iOS framework created to demonstrate how to create and distribute a framework using CocoaPods.
