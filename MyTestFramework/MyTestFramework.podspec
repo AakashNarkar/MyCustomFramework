@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
   This is a custom iOS framework created to demonstrate how to create and distribute a framework using CocoaPods.
                        DESC
-  s.homepage         = 'https://github.com/AakashNarkar/MyTestFramework'
+  s.homepage         = 'https://github.com/AakashNarkar/MyCustomFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Your Name' => 'aakashnarkar19@gmail.com' }
   s.source           = { :git => 'https://github.com/AakashNarkar/MyTestFramework.git', :tag => s.version.to_s }
